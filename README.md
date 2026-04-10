@@ -1,12 +1,21 @@
-# PERSONAL-FINANCE-ANALYTICS-DASHBOARD
 <div align="center">
   <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=2070&auto=format&fit=crop" alt="Personal Finance Dashboard Banner" width="100%">
 
-  
+  <h1>📈 Personal Finance Analytics Dashboard</h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/Tool-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+    <img src="https://img.shields.io/badge/Domain-Personal_Finance-00B200?style=for-the-badge&logo=cashapp&logoColor=white" alt="Finance">
+    <img src="https://img.shields.io/badge/Status-Completed-28A745?style=for-the-badge" alt="Completed">
+  </p>
+
   > *A dynamic, interactive business intelligence dashboard designed to take control of personal wealth, visualize cash flow, and optimize investment strategies.*
 </div>
 
 ---
+
+## 🎬 Dashboard Preview
+*(Upload a GIF or screenshot of your Power BI dashboard here to instantly grab attention!)*
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/189524/screenshots/15444850/media/ce272adcd164eeef99b0c60965e52c80.gif" alt="Power BI Dashboard Animation" width="700">
@@ -26,16 +35,6 @@ Managing personal wealth requires clear visibility into both spending habits and
 * 💸 **Dividend Yield Analytics:** Visualize passive income streams to ensure the portfolio is generating maximum returns.
 * 📅 **Trend Analysis:** Month-over-month and year-over-year financial comparisons to track net worth growth.
 * 🎛️ **Interactive Slicers:** Drill down into specific date ranges, asset classes, or spending categories with a single click.
-
----
-
-## 🖼️ BI Visualization Boards
-*(Replace the placeholder URLs with the images of your attached BI boards)*
-
-| 📌 Executive Summary | 📌 Investment & Equity View |
-| :---: | :---: |
-| <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=500&auto=format&fit=crop" alt="Summary Board"> | <img src="https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=500&auto=format&fit=crop" alt="Investment Board"> |
-| *High-level overview of net worth and expenses.* | *Detailed breakdown of stock performance and yields.* |
 
 ---
 
