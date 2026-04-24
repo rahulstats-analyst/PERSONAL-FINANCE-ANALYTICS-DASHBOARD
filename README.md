@@ -14,13 +14,6 @@
 
 ---
 
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/189524/screenshots/15444850/media/ce272adcd164eeef99b0c60965e52c80.gif" alt="Power BI Dashboard Animation" width="700">
-</div>
-
----
-
 ## 🎯 Project Objective
 Managing personal wealth requires clear visibility into both spending habits and wealth-building assets. This Power BI project transforms raw financial data into an intuitive visual narrative. Whether tracking daily living expenses, identifying stocks trading at a dip, or evaluating a portfolio built on high dividend yields for maximum returns, this dashboard provides the analytical depth needed for smart financial decision-making. 
 
