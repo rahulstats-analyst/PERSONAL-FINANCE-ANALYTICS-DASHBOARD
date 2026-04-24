@@ -14,8 +14,6 @@
 
 ---
 
-## 🎬 Dashboard Preview
-*(Upload a GIF or screenshot of your Power BI dashboard here to instantly grab attention!)*
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/189524/screenshots/15444850/media/ce272adcd164eeef99b0c60965e52c80.gif" alt="Power BI Dashboard Animation" width="700">
